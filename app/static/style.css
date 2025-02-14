@@ -1,0 +1,342 @@
+/* General Body Style */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #121212;
+    color: #e0e0e0;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    text-align: center;
+}
+
+/* ---------- Home Page Specific Styles ---------- */
+/* These rules use new class names (prefixed with "home-") so they apply only to home.html */
+
+/* Home Main Title */
+.home-main-title {
+    font-size: 3.5em;
+    margin-top: 30px;
+    color: #ffffff;
+}
+
+/* Home Page Title (smaller than main title) */
+.home-page-title {
+    font-size: 2.2em;
+    margin-top: 10px;
+    color: #64b5f6;
+}
+
+/* Home Models Subtitle */
+.home-models-subtitle {
+    font-size: 1.8em;
+    color: #90caf9;
+    text-align: left;
+    width: 85%;
+    margin: 20px auto 10px auto;
+}
+
+/* Home Model Boxes */
+.home-model-box {
+    width: 85%;
+    /* max-width: 600px; */
+    background-color: #1e1e2f;
+    padding: 20px;
+    margin: 15px auto;
+    border-radius: 12px;
+    text-decoration: none;
+    color: white;
+    text-align: left;
+    transition: transform 0.2s ease, background-color 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+}
+
+.home-model-box:hover {
+    transform: scale(1.05);
+    background-color: #29293d;
+}
+
+.home-model-box h2 {
+    font-size: 1.8em;
+    margin: 10px 0;
+}
+
+.home-model-box p {
+    font-size: 1.2em;
+    color: #bbbbbb;
+    margin: 5px 0;
+}
+
+/* Click Text (used in home.html) */
+.click-text {
+    font-size: 1em;
+    font-weight: bold;
+    color: #64b5f6;
+    margin-top: 10px;
+}
+
+/* ---------- Predict Page Specific Styles ---------- */
+/* These rules are used by predict.html and remain unchanged */
+
+/* Title Styling */
+.title {
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+
+.title h1 {
+    color: #64b5f6;
+    font-size: 2.5em;
+    margin: 0;
+}
+
+.subtitle {
+    font-size: 1.4em;
+    color: #bbbbbb;
+    margin-bottom: 30px;
+}
+
+.paragraph {
+    margin-bottom: 20px;
+}
+
+/* Home Container (if used) */
+.home-container {
+    width: 100%;
+    max-width: 1200px;
+    background-color: #1e1e2f; /* Dark blue-gray container */
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);
+    margin-top: 100px;
+    gap: 30px;
+}
+
+/* Generic Container */
+.container {
+    width: 90%;
+    max-width: 1200px;
+    background-color: #1e1e2f;
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);
+    display: flex;
+    gap: 30px;
+}
+
+/* Model Selection Boxes (if any) */
+.model-box {
+    width: 80%;
+    max-width: 600px;
+    background-color: #1e1e2f;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 12px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    transition: transform 0.2s ease, background-color 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.old-model {
+    border-left: 8px solid #f44336; /* Red Accent */
+}
+
+.new-model {
+    border-left: 8px solid #4caf50; /* Green Accent */
+}
+
+.model-box:hover {
+    transform: scale(1.05);
+    background-color: #29293d;
+}
+
+.model-box h2 {
+    font-size: 1.8em;
+    margin: 10px 0;
+}
+
+.model-box p {
+    font-size: 1.2em;
+    color: #bbbbbb;
+    margin: 5px 0;
+}
+
+/* Left Box: Parameters */
+.parameters-box {
+    flex: 1;
+    background-color: #24243d;
+    color: #e0e0e0;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+}
+
+/* Form Elements in Parameters Box */
+.parameters-box label {
+    font-size: 1.2em;
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+    color: #90caf9;
+    text-align: left;
+}
+
+.parameters-box input,
+.parameters-box select {
+    width: 95%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #3a3f5c;
+    background-color: #1e1e2f;
+    color: #ffffff;
+}
+
+.parameters-box select {
+    width: 100%;
+}
+
+.parameters-box input[type="submit"] {
+    background-color: #2196f3;
+    color: white;
+    font-size: 1.2em;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    padding: 10px 15px;
+}
+
+.parameters-box input[type="submit"]:hover {
+    background-color: #64b5f6;
+}
+
+/* Generic Button Styling */
+.button {
+    background-color: #2196f3;
+    color: white;
+    font-size: 1.2em;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    padding: 10px 15px;
+}
+
+.button:hover {
+    background-color: #64b5f6;
+}
+
+/* Right Box: Results */
+.results-box {
+    flex: 1;
+    background-color: #24243d;
+    color: #e0e0e0;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+/* Table Styling */
+.table-container {
+    flex-grow: 1;
+    overflow-y: auto;
+    max-height: 500px;
+    margin-top: -20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+    background-color: #1e1e2f;
+}
+
+thead th {
+    position: sticky;
+    top: 0;
+    background-color: #2196f3;
+    color: white;
+    z-index: 1;
+}
+
+th, td {
+    border: 1px solid #3a3f5c;
+    padding: 12px;
+    text-align: center;
+    color: #e0e0e0;
+}
+
+th:first-child, td:first-child {
+    width: 10%;
+}
+
+th:nth-child(2), td:nth-child(2) {
+    width: 20%;
+    text-align: justify;
+}
+
+th:nth-child(3), td:nth-child(3) {
+    width: 70%;
+    text-align: justify;
+}
+
+/* Clear Button */
+#clear-button {
+    background-color: #f44336;
+    color: white;
+    font-size: 1.2em;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    transition: background-color 0.3s;
+}
+
+#clear-button:hover {
+    background-color: #ff7961;
+}
+
+/* Back Button Styling */
+.back-button {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.back-link {
+    text-decoration: none;
+    background-color: #3b5998;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 1em;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.back-link:hover {
+    background-color: #4a6ab0;
+}
+
+/* Footer */
+.footer {
+    margin-top: 30px;
+    color: #90caf9;
+    font-size: 1em;
+    width: 90%;
+    text-align: left;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/50d2d4dc7fb64b37bb11793ca1b3fabc/artifacts
+end_time: 1738722564308
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: 50d2d4dc7fb64b37bb11793ca1b3fabc
+run_name: adventurous-sow-252
+run_uuid: 50d2d4dc7fb64b37bb11793ca1b3fabc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738722563933
+status: 3
+tags: []
+user_id: harryphoebus

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/f6eed6adc2084e6b869c8001ea765b48/artifacts
+end_time: 1738726278308
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: f6eed6adc2084e6b869c8001ea765b48
+run_name: blushing-bear-471
+run_uuid: f6eed6adc2084e6b869c8001ea765b48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738726277585
+status: 3
+tags: []
+user_id: harryphoebus

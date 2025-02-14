@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/d65ff1ccfaad4948980b05071fcf445e/artifacts
+end_time: 1738726354718
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: d65ff1ccfaad4948980b05071fcf445e
+run_name: upbeat-frog-46
+run_uuid: d65ff1ccfaad4948980b05071fcf445e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738726281663
+status: 3
+tags: []
+user_id: harryphoebus

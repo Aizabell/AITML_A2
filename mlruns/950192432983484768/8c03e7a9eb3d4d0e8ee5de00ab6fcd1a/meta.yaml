@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/8c03e7a9eb3d4d0e8ee5de00ab6fcd1a/artifacts
+end_time: 1738722243619
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: 8c03e7a9eb3d4d0e8ee5de00ab6fcd1a
+run_name: tasteful-goat-224
+run_uuid: 8c03e7a9eb3d4d0e8ee5de00ab6fcd1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738722174561
+status: 3
+tags: []
+user_id: harryphoebus

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/a34189ad66a24f3d8f793bd7c86ec54c/artifacts
+end_time: 1738722855286
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: a34189ad66a24f3d8f793bd7c86ec54c
+run_name: bold-perch-532
+run_uuid: a34189ad66a24f3d8f793bd7c86ec54c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738722855077
+status: 3
+tags: []
+user_id: harryphoebus

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/59cbc3d84fea4d3b846a5e4d273469d0/artifacts
+end_time: 1738726145897
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: 59cbc3d84fea4d3b846a5e4d273469d0
+run_name: languid-yak-61
+run_uuid: 59cbc3d84fea4d3b846a5e4d273469d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738726144746
+status: 3
+tags: []
+user_id: harryphoebus

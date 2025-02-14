@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/157f9df778b6480cb9a76abb8d3b7df2/artifacts
+end_time: 1738724001590
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: 157f9df778b6480cb9a76abb8d3b7df2
+run_name: thoughtful-foal-20
+run_uuid: 157f9df778b6480cb9a76abb8d3b7df2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738724001353
+status: 3
+tags: []
+user_id: harryphoebus

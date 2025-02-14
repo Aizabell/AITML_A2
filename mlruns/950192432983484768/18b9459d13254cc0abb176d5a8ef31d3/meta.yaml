@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/18b9459d13254cc0abb176d5a8ef31d3/artifacts
+end_time: 1738724131165
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: 18b9459d13254cc0abb176d5a8ef31d3
+run_name: fortunate-colt-709
+run_uuid: 18b9459d13254cc0abb176d5a8ef31d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738724126610
+status: 3
+tags: []
+user_id: harryphoebus

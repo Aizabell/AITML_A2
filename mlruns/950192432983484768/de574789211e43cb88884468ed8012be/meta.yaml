@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/de574789211e43cb88884468ed8012be/artifacts
+end_time: 1738726697519
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: de574789211e43cb88884468ed8012be
+run_name: colorful-steed-476
+run_uuid: de574789211e43cb88884468ed8012be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738726697372
+status: 3
+tags: []
+user_id: harryphoebus

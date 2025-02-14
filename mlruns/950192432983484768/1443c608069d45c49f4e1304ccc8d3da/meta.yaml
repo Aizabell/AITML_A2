@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/1443c608069d45c49f4e1304ccc8d3da/artifacts
+end_time: 1738723689466
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: 1443c608069d45c49f4e1304ccc8d3da
+run_name: upset-pig-682
+run_uuid: 1443c608069d45c49f4e1304ccc8d3da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738723688830
+status: 3
+tags: []
+user_id: harryphoebus

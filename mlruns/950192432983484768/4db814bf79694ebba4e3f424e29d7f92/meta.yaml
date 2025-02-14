@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/4db814bf79694ebba4e3f424e29d7f92/artifacts
+end_time: 1738720969661
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: 4db814bf79694ebba4e3f424e29d7f92
+run_name: worried-fowl-919
+run_uuid: 4db814bf79694ebba4e3f424e29d7f92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738720969654
+status: 4
+tags: []
+user_id: harryphoebus

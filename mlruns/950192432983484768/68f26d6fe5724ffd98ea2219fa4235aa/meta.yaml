@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/68f26d6fe5724ffd98ea2219fa4235aa/artifacts
+end_time: 1738723688828
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: 68f26d6fe5724ffd98ea2219fa4235aa
+run_name: rare-seal-919
+run_uuid: 68f26d6fe5724ffd98ea2219fa4235aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738723688620
+status: 3
+tags: []
+user_id: harryphoebus

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/af768157916b4b0684245aa4dc8e4fbe/artifacts
+end_time: 1738724433805
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: af768157916b4b0684245aa4dc8e4fbe
+run_name: stately-kit-608
+run_uuid: af768157916b4b0684245aa4dc8e4fbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738724433665
+status: 3
+tags: []
+user_id: harryphoebus

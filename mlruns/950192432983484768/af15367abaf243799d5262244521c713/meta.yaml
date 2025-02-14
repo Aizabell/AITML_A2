@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/af15367abaf243799d5262244521c713/artifacts
+end_time: 1738722535772
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: af15367abaf243799d5262244521c713
+run_name: loud-penguin-113
+run_uuid: af15367abaf243799d5262244521c713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738722533468
+status: 3
+tags: []
+user_id: harryphoebus

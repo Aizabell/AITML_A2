@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/b63d77d64c2f400f95d41f3548858905/artifacts
+end_time: 1738726593765
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: b63d77d64c2f400f95d41f3548858905
+run_name: painted-wren-594
+run_uuid: b63d77d64c2f400f95d41f3548858905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738726593613
+status: 3
+tags: []
+user_id: harryphoebus

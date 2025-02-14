@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/c715063946354ef591a5c5c2b9de1289/artifacts
+end_time: 1738724122437
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: c715063946354ef591a5c5c2b9de1289
+run_name: capricious-fish-309
+run_uuid: c715063946354ef591a5c5c2b9de1289
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738724122051
+status: 3
+tags: []
+user_id: harryphoebus

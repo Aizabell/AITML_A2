@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/4a5f4486c5ac45709b464f73bb0f6668/artifacts
+end_time: 1738726277583
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: 4a5f4486c5ac45709b464f73bb0f6668
+run_name: caring-deer-301
+run_uuid: 4a5f4486c5ac45709b464f73bb0f6668
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738726277102
+status: 3
+tags: []
+user_id: harryphoebus

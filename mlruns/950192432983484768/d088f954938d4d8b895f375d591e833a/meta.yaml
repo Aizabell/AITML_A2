@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/d088f954938d4d8b895f375d591e833a/artifacts
+end_time: 1738722970833
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: d088f954938d4d8b895f375d591e833a
+run_name: gifted-grouse-252
+run_uuid: d088f954938d4d8b895f375d591e833a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738722970754
+status: 3
+tags: []
+user_id: harryphoebus

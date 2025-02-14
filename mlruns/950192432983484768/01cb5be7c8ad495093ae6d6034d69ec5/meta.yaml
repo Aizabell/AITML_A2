@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/01cb5be7c8ad495093ae6d6034d69ec5/artifacts
+end_time: 1738724435069
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: 01cb5be7c8ad495093ae6d6034d69ec5
+run_name: bold-elk-93
+run_uuid: 01cb5be7c8ad495093ae6d6034d69ec5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738724434646
+status: 3
+tags: []
+user_id: harryphoebus

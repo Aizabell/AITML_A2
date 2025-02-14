@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/7b7c25b1dc26402593d9125c46fde341/artifacts
+end_time: 1738724530115
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: 7b7c25b1dc26402593d9125c46fde341
+run_name: Fold-3
+run_uuid: 7b7c25b1dc26402593d9125c46fde341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738724530097
+status: 3
+tags: []
+user_id: harryphoebus

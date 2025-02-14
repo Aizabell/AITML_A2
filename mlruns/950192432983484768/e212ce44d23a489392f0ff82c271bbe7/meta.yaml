@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/e212ce44d23a489392f0ff82c271bbe7/artifacts
+end_time: 1738722321110
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: e212ce44d23a489392f0ff82c271bbe7
+run_name: fearless-newt-6
+run_uuid: e212ce44d23a489392f0ff82c271bbe7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738722243620
+status: 3
+tags: []
+user_id: harryphoebus

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/5a7f1fd31d3147b9a143f9c4159cbf46/artifacts
+end_time: 1738722854198
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: 5a7f1fd31d3147b9a143f9c4159cbf46
+run_name: respected-dove-10
+run_uuid: 5a7f1fd31d3147b9a143f9c4159cbf46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738722854125
+status: 3
+tags: []
+user_id: harryphoebus

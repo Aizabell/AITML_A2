@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/30948bb8756a4309be1f9ca59746f982/artifacts
+end_time: 1738722855911
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: 30948bb8756a4309be1f9ca59746f982
+run_name: serious-donkey-573
+run_uuid: 30948bb8756a4309be1f9ca59746f982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738722855602
+status: 3
+tags: []
+user_id: harryphoebus

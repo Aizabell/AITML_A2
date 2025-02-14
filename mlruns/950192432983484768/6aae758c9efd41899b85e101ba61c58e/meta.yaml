@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/6aae758c9efd41899b85e101ba61c58e/artifacts
+end_time: 1738721999308
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: 6aae758c9efd41899b85e101ba61c58e
+run_name: silent-steed-415
+run_uuid: 6aae758c9efd41899b85e101ba61c58e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738721998498
+status: 3
+tags: []
+user_id: harryphoebus

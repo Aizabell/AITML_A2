@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/f642b6b923f74430a0c065c43710ea58/artifacts
+end_time: 1738724433664
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: f642b6b923f74430a0c065c43710ea58
+run_name: blushing-crab-480
+run_uuid: f642b6b923f74430a0c065c43710ea58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738724433234
+status: 3
+tags: []
+user_id: harryphoebus

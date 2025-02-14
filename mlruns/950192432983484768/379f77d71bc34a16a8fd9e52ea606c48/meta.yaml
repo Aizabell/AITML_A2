@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/379f77d71bc34a16a8fd9e52ea606c48/artifacts
+end_time: 1738724145448
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: 379f77d71bc34a16a8fd9e52ea606c48
+run_name: judicious-gull-489
+run_uuid: 379f77d71bc34a16a8fd9e52ea606c48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738724144853
+status: 3
+tags: []
+user_id: harryphoebus

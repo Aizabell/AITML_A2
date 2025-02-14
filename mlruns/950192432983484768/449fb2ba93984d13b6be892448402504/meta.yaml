@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/449fb2ba93984d13b6be892448402504/artifacts
+end_time: 1738723691217
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: 449fb2ba93984d13b6be892448402504
+run_name: fearless-mink-485
+run_uuid: 449fb2ba93984d13b6be892448402504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738723690351
+status: 3
+tags: []
+user_id: harryphoebus

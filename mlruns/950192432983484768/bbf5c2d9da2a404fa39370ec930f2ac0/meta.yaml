@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/bbf5c2d9da2a404fa39370ec930f2ac0/artifacts
+end_time: 1738724553876
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: bbf5c2d9da2a404fa39370ec930f2ac0
+run_name: capricious-ram-626
+run_uuid: bbf5c2d9da2a404fa39370ec930f2ac0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738724553733
+status: 3
+tags: []
+user_id: harryphoebus

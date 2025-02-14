@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/d76d1d04b9aa496f9e38a2b69e8520cd/artifacts
+end_time: 1738726601678
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: d76d1d04b9aa496f9e38a2b69e8520cd
+run_name: capable-turtle-304
+run_uuid: d76d1d04b9aa496f9e38a2b69e8520cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738726597250
+status: 3
+tags: []
+user_id: harryphoebus

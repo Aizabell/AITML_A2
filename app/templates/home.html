@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Car Price Prediction</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <!-- New Main Title for Home Page -->
+  <h1 class="home-main-title">Car Price Prediction Simulator</h1>
+  
+  <!-- Page Title (smaller than main title) -->
+  <h2 class="home-page-title">Welcome to Car Price Prediction</h2>
+  
+  <!-- Left-aligned Subtitle for Model Boxes -->
+  <h3 class="home-models-subtitle">Machine Learning Models</h3>
+  
+  <!-- Model Boxes (each spans approximately 85% of available width) -->
+  <a href="/predict_old" class="home-model-box old-model">
+    <h2>🚀 Scikit-Learn Based Car Price Prediction Model</h2>
+    <p>This model is trained with algorithms from scikit-learn libraries.</p>
+    <span class="click-text">Click to use the model ➝</span>
+  </a>
+  
+  <a href="/predict_new" class="home-model-box new-model">
+    <h2>🚀 Custom Linear Regression Based Car Price Prediction Model</h2>
+    <p>This model is trained with custom Linear Regression algorithm including Polynomial, Lasso, Ridge and Normal regressions, Xavier weight and momentum.</p>
+    <span class="click-text">Click to use the model ➝</span>
+  </a>
+  
+  <!-- Footer -->
+  <div class="footer">
+    <p>Made by Oak Soe Kyaw (ST125064)</p>
+  </div>
+</body>
+</html>

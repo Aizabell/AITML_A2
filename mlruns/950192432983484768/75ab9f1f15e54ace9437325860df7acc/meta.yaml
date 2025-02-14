@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/75ab9f1f15e54ace9437325860df7acc/artifacts
+end_time: 1738724980193
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: 75ab9f1f15e54ace9437325860df7acc
+run_name: popular-robin-352
+run_uuid: 75ab9f1f15e54ace9437325860df7acc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738724980060
+status: 3
+tags: []
+user_id: harryphoebus

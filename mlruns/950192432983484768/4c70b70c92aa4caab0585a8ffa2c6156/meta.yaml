@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/4c70b70c92aa4caab0585a8ffa2c6156/artifacts
+end_time: 1738724546117
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: 4c70b70c92aa4caab0585a8ffa2c6156
+run_name: orderly-horse-404
+run_uuid: 4c70b70c92aa4caab0585a8ffa2c6156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738724537962
+status: 3
+tags: []
+user_id: harryphoebus

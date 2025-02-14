@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/0ad85c6de0ea47b38b100b384706c3a0/artifacts
+end_time: 1738723690349
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: 0ad85c6de0ea47b38b100b384706c3a0
+run_name: bemused-hound-617
+run_uuid: 0ad85c6de0ea47b38b100b384706c3a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738723689467
+status: 3
+tags: []
+user_id: harryphoebus

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/8420c48c4eac45478f02faec67c9c7ff/artifacts
+end_time: 1738724001145
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: 8420c48c4eac45478f02faec67c9c7ff
+run_name: aged-koi-816
+run_uuid: 8420c48c4eac45478f02faec67c9c7ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738724000947
+status: 3
+tags: []
+user_id: harryphoebus

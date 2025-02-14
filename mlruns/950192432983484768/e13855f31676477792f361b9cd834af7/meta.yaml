@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/e13855f31676477792f361b9cd834af7/artifacts
+end_time: 1738724531659
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: e13855f31676477792f361b9cd834af7
+run_name: melodic-goat-108
+run_uuid: e13855f31676477792f361b9cd834af7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738724531112
+status: 3
+tags: []
+user_id: harryphoebus

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/040764b7e3de4ae08f0a71b576bb34c4/artifacts
+end_time: 1738722402694
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: 040764b7e3de4ae08f0a71b576bb34c4
+run_name: serious-roo-871
+run_uuid: 040764b7e3de4ae08f0a71b576bb34c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738722390063
+status: 3
+tags: []
+user_id: harryphoebus

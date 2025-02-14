@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/182a674dcef24de1908974ff1945081f/artifacts
+end_time: 1738724554371
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: 182a674dcef24de1908974ff1945081f
+run_name: lyrical-finch-127
+run_uuid: 182a674dcef24de1908974ff1945081f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738724553877
+status: 3
+tags: []
+user_id: harryphoebus

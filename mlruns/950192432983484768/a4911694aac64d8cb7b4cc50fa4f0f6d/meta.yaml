@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/a4911694aac64d8cb7b4cc50fa4f0f6d/artifacts
+end_time: 1738726673584
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: a4911694aac64d8cb7b4cc50fa4f0f6d
+run_name: zealous-elk-904
+run_uuid: a4911694aac64d8cb7b4cc50fa4f0f6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738726611305
+status: 3
+tags: []
+user_id: harryphoebus

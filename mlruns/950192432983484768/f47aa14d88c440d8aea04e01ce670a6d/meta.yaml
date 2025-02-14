@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/f47aa14d88c440d8aea04e01ce670a6d/artifacts
+end_time: 1738726276660
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: f47aa14d88c440d8aea04e01ce670a6d
+run_name: capable-trout-334
+run_uuid: f47aa14d88c440d8aea04e01ce670a6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738726275890
+status: 3
+tags: []
+user_id: harryphoebus

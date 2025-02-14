@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/d560d9578a1b4b0599b747b489d8660c/artifacts
+end_time: 1738721499651
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: d560d9578a1b4b0599b747b489d8660c
+run_name: puzzled-ray-998
+run_uuid: d560d9578a1b4b0599b747b489d8660c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738721499642
+status: 4
+tags: []
+user_id: harryphoebus

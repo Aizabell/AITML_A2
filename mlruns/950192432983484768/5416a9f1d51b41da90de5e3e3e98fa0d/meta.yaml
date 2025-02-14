@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harryphoebus/AIT%20Course/Machine%20Learning/Codings/Assignment02/mlruns/950192432983484768/5416a9f1d51b41da90de5e3e3e98fa0d/artifacts
+end_time: 1738724583432
+entry_point_name: ''
+experiment_id: '950192432983484768'
+lifecycle_stage: active
+run_id: 5416a9f1d51b41da90de5e3e3e98fa0d
+run_name: beautiful-fish-1
+run_uuid: 5416a9f1d51b41da90de5e3e3e98fa0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738724559269
+status: 3
+tags: []
+user_id: harryphoebus
