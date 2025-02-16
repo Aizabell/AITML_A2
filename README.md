@@ -5,7 +5,7 @@
 **Student Name**: Oak Soe Kyaw
 **Student ID**: ST125064
 
-**Application Website**: [Car Prediction Simulator](https://st125064_02.ml.brain.cs.ait.ac.th/)
+**Application Website**: [Car Prediction Simulator](https://st125064_02.ml.brain.cs.ait.ac.th/) or https://st125064_02.ml.brain.cs.ait.ac.th/
 
 ## Overview
 
