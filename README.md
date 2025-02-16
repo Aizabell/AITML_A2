@@ -104,21 +104,17 @@ The application will be accessible at http://127.0.0.1:5001.
 1. **Build the Docker Image**:
 
 ```bash
-docker build -t <docker-username>/car-price-predictor .
+# Build the Docker image in app directory
+docker build -t harryphoebus/ml_assignment02:latest . 
 ```
 
 2. **Run the Application**:
 
 ```bash
-docker run -p 5001:5000 <docker-username>/car-price-predictor
+docker run -p 5001:5001 harryphoebus/ml_assignment02:latest
 ```
 
-3. **Using Docker Compose**: Ensure the docker-compose.yml file is correctly set up, then run:
-
-```bash
-# Build the Docker image in app directory
-docker build -t harryphoebus/ml_assignment02:latest . 
-```
+**Using Docker Compose**: Ensure the docker-compose.yml file is correctly set up, then run:
 
 ```bash
 # Start the application in detached mode
