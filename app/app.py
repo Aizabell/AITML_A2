@@ -1,7 +1,8 @@
-from flask import Flask, render_template, request
-from algorithm import LinearRegression  # Ensure the custom model class is available
 import pickle
 import numpy as np
+from flask import Flask, render_template, request
+from algorithm import LinearRegression  # Ensure the custom model class is available
+
 
 app = Flask(__name__)
 

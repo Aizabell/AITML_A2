@@ -1,13 +1,37 @@
-version: "3.10"
+version: "3.11"
 
 services:
   flask-app:
-    image: harryphoebus/ml_assignment02:latest  # Use your pushed image
-    container_name: ml_assignment_test
-    ports:
-      - "5001:5000"  # Map Flask app's port to localhost
-    restart: always
+    image: harryphoebus/ml_assignment02:latest
+    platform: linux/amd64  # Ensure correct platform
+    container_name: oaksoekyaw_ml_assignment02
+    # ports:
+    #   - "5001:5001"
+    # restart: always
+    environment:
+      - Host=0.0.0.0
+      - Port=5001
 
+    labels:
+      # Enable Traefik reverse proxy
+      - "traefik.enable=true"
+      # Define backend service port for Traefik
+      - "traefik.http.services.web-st125064_02.loadbalancer.server.port=5001"
+      # Define routing for development
+      - "traefik.http.routers.web-st125064_02.rule=Host(`st125064_02.ml.brain.cs.ait.ac.th`)"
+      # Enable SSL for testing (optional)
+      - "traefik.http.routers.web-st125064_02.tls=true"
+      - "traefik.http.routers.web-st125064_02.tls.certresolver=staging"
+      - "traefik.http.routers.web-st125064_02.entrypoints=websecure"
+
+    networks:
+      - default
+      - traefik_default
+
+networks:
+  default:
+  traefik_default:
+    external: true
 
 
 
