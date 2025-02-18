@@ -1,21 +1,21 @@
 import pickle
 import numpy as np
 from flask import Flask, render_template, request
-from algorithm import LinearRegression  # Ensure the custom model class is available
+from algorithm import LinearRegression  
 
 
 app = Flask(__name__)
 
-# ✅ Load the new model, scaler, and polynomial transformer
+# Load the new model, scaler, and polynomial transformer
 new_model = pickle.load(open('new_model.pkl', 'rb'))
 new_scaler = pickle.load(open('new_scaler.pkl', 'rb'))
 new_poly = pickle.load(open('new_poly.pkl', 'rb'))
 
-# ✅ Load the old model and old scaler
+# Load the old model and old scaler
 old_model = pickle.load(open('car_prediction.model', 'rb'))
 old_scaler = pickle.load(open('old_scaler.pkl', 'rb'))
 
-# ✅ Initialize a dictionary to hold prediction history for both models
+# Initialize a dictionary to hold prediction history for both models
 prediction_history = {
     "old": [],
     "new": []
@@ -37,7 +37,7 @@ def predict(model, scaler, poly, history_key, model_name):
     if request.method == "GET":
         return render_template("predict.html", prediction_history=prediction_history[history_key], model_type=model_name)
 
-    # ✅ Handle form inputs and assign default values
+    # Handle form inputs and assign default values
     year = request.form.get("year", "").strip()
     max_power = request.form.get("max_power", "").strip()
     engine = request.form.get("engine", "").strip()
@@ -46,11 +46,11 @@ def predict(model, scaler, poly, history_key, model_name):
     transmission = request.form.get("transmission", "0").strip()
     action = request.form.get("action")  # Get the action (e.g., "Clear")
 
-    if action == "Clear":  # ✅ Clear history for this model
+    if action == "Clear":  # Clear history for this model
         prediction_history[history_key] = []
         return render_template("predict.html", prediction_history=prediction_history[history_key], model_type=model_name)
 
-    # ✅ Convert inputs safely (use defaults if empty)
+    # Convert inputs safely (use defaults if empty)
     year = int(year) if year.isdigit() else 2015
     max_power = float(max_power) if max_power.replace(".", "", 1).isdigit() else 80.0
     engine = int(engine) if engine.isdigit() else 1500
@@ -60,28 +60,28 @@ def predict(model, scaler, poly, history_key, model_name):
 
     input_data = np.array([[year, max_power, engine, owner, fuel, transmission]])
 
-    # ✅ Scale input first!
+    # Scale input first!
     scaled_input = scaler.transform(input_data)
 
-    # ✅ Apply polynomial transformation if needed (AFTER SCALING)
+    # Apply polynomial transformation if needed (AFTER SCALING)
     if poly:
         transformed_input = poly.transform(scaled_input)
     else:
         transformed_input = scaled_input
 
-    # ✅ Predict price
+    # Predict price
     predicted_price_log = model.predict(transformed_input)
     predicted_price = np.exp(predicted_price_log[0])  # Convert log price back to normal price
 
-    # ✅ Prepare parameters for display
+    # Prepare parameters for display
     parameters = f"Year: {year}, Max Power: {max_power}, Engine: {engine}, " \
                  f"Owner: {['First', 'Second', 'Third', 'Fourth & Above'][owner - 1]}, " \
                  f"Fuel: {['Petrol', 'Diesel'][fuel]}, Transmission: {['Manual', 'Automatic'][transmission]}"
 
-    # ✅ Append prediction and parameters to history
+    # Append prediction and parameters to history
     prediction_history[history_key].append({"price": f"${predicted_price:,.2f}", "parameters": parameters})
 
-    # ✅ Render the prediction page
+    # Render the prediction page
     return render_template("predict.html", prediction_history=prediction_history[history_key], model_type=model_name)
 
 if __name__ == "__main__":
